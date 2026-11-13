@@ -1,8 +1,8 @@
-mode=2;  
-time=86400; 
-time2=43200; 
+mode=1;  
+time=10; 
+time2=5; 
 playnum=12;  
-dst=1;
+dst=0;
 dst2=2;
 ota=0;
 otav=E2611120E1;

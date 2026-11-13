@@ -1,10 +1,10 @@
-time=1290; 
+time=30; 
 admWork=1;
-time2=251; 
+time2=10; 
 playnum=5;
 mode=2;  
 dst=1;
-dst2=2;
+dst2=1;
 sdcd=1;
 rebin=1;  
 ota=0;
