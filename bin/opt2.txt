@@ -1,5 +1,5 @@
 time=14; 
-admWork=1;
+admWork=0;
 playnum=5;  
 mode=2;
 gid=AKfycbwJ_iBI-XK2ed1eRs-HvwvYwikDY1zwn-zWOhxeTdskvNYNo3pX6uSbRCIJACF8-G1TXw;
