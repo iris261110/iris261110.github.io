@@ -1,3 +1,4 @@
-time=30; 
+time=14; 
 admWork=1;
+playnum=5;  
 gid=AKfycbwJ_iBI-XK2ed1eRs-HvwvYwikDY1zwn-zWOhxeTdskvNYNo3pX6uSbRCIJACF8-G1TXw;
