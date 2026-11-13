@@ -1,4 +1,5 @@
 time=1290; 
+admWork=1;
 time2=251; 
 playnum=5;
 mode=2;  
