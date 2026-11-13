@@ -1,7 +1,7 @@
 mode=1;  
 time=10; 
 time2=5; 
-playnum=12;  
+playnum=10;  
 dst=0;
 dst2=2;
 ota=0;
