@@ -1,6 +1,6 @@
 mode=2;  
-time=10; 
-time2=5; 
+time=3600; 
+time2=1200; 
 playnum=10;  
 dst=0;
 dst2=2;
