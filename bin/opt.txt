@@ -1,5 +1,4 @@
 mode=2;  
-sdPlay=1;
 time=6; 
 time2=0; 
 playnum=10;  
