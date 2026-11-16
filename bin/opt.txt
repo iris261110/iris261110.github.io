@@ -2,6 +2,7 @@ mode=2;
 time=3; 
 playnum=4;  
 handrun=1;
+sdplay=1;
 dst=0;
 dst2=2;
 ota=0;
