@@ -1,5 +1,5 @@
 time=5; 
-admWork=1;
+admWork=0;
 playnum=3;  
 dst=1;
 mode=2;
@@ -7,3 +7,4 @@ handrun=1;
 rebin=1;
 binv=A10003;
 gid=AKfycbwJ_iBI-XK2ed1eRs-HvwvYwikDY1zwn-zWOhxeTdskvNYNo3pX6uSbRCIJACF8-G1TXw;
+urladm=https://sanint83.github.io/;
