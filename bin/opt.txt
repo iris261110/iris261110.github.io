@@ -7,6 +7,6 @@ dst=2;
 dst2=2;
 ota=1;
 otav=E261120aE1;
-binv=A1008C;
+binv=A10035;
 sdcd=1;
 rebin=1;
