@@ -1,12 +1,6 @@
-mode=2;  
+mode=1;  
 time=3; 
 playnum=4;  
 handrun=1;
 sdplay=0;
 dst=2;
-dst2=2;
-ota=1;
-otav=E261120bE1;
-binv=A10035;
-sdcd=1;
-rebin=1;
