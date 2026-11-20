@@ -1,4 +1,4 @@
-mode=1;  
+mode=2;  
 time=3; 
 playnum=4;  
 handrun=0;
