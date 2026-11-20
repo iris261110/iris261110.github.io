@@ -4,3 +4,5 @@ playnum=4;
 handrun=0;
 sdplay=0;
 dst=1;
+otav=E261120aE1;
+ota=1;
