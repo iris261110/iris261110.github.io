@@ -2,5 +2,5 @@ mode=1;
 time=3; 
 playnum=4;  
 handrun=1;
-sdplay=0;
+sdplay=1;
 dst=2;
