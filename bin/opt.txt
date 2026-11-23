@@ -1,7 +1,7 @@
 mode=1;  
 time=3; 
 playnum=4;  
-handrun=0;
+handrun=1;
 sdplay=0;
 dst=2;
 otav=E261120aE0;
